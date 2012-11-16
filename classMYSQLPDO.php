@@ -1,7 +1,7 @@
 <?php
 /*
  * 	Class:	  DB
-* 	Progr.:	  Mikhail Tchervonenko
+* 	Progr:	  Mikhail Tchervonenko
 * 	Data: 	  2012-10-15
 * 	EMail: 	  rusmikleATgmailPointCom
 *   ICQ: 	  35818796
