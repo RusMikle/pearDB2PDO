@@ -7,7 +7,7 @@
  *  ICQ: 	35818796
  *  Skype: 	RusMikle
  *
- *   ver 1.0.1
+ *   ver 1.0.2
  *
  *   GNU General Public License
  */
