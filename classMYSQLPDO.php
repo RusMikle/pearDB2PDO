@@ -4,8 +4,8 @@
 * 	Progr.:	Mikhail Tchervonenko
 * 	Data: 	2012-10-15
 * 	EMail: 	rusmikleATgmailPointCom
-*  ICQ: 	35818796
-*  Skype: 	RusMikle
+*   ICQ: 	35818796
+*   Skype: 	RusMikle
 *
 *  ver 1.0.2
 *
