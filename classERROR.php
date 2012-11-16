@@ -1,11 +1,11 @@
 <?php
 /*
- * 	Class:	Error
- * 	Progr.:	Mikhail Tchervonenko
- * 	Data: 	2012-11-16
- * 	EMail: 	rusmikleATgmailPointCom
- *  ICQ: 	35818796
- *  Skype: 	RusMikle
+ * 	 Class:	    Error
+ * 	 Progr.:	Mikhail Tchervonenko
+ * 	 Data: 	    2012-11-16
+ * 	 EMail: 	rusmikleATgmailPointCom
+ *   ICQ: 	    35818796
+ *   Skype: 	RusMikle
  *
  *   ver 1.0.2
  *
