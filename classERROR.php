@@ -42,7 +42,7 @@ class ERR
         if (is_writable($this->error_filename))
         {
             $handle = fopen($this->error_filename, 'a');
-            fwrite($handle, "\n\r###############################\n\r" . $this->error_message . $error_bt . "\n\r");
+            fwrite($handle, "\n\r##############################\n\r" . $this->error_message . $error_bt . "\n\r");
             fclose($handle);
         }
         else
